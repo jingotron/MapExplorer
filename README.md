@@ -5,6 +5,7 @@ The window.cpp and timer.cpp files are modified versions of code from Twinklebea
 Custom assets have to be added in. The top of the main.cpp file will have constant string values that have all the filenames.
 
 The TMX map has to be a certain format:
+
 //------------------------------------------FORMAT---------------------------------------------------------------//
 	//- tiles that are solid will have property name = "solid" and either value "0" or "1" indicating soldness.
 	//- one image per tileset.
