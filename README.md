@@ -6,7 +6,7 @@ Custom assets have to be added in. The top of the main.cpp file will have consta
 
 The TMX map has to be a certain format:
 
-//------------------------------------------FORMAT---------------------------------------------------------------//
+//------------------------------------------FORMAT---------------------------------------------------------------
 	//- tiles that are solid will have property name = "solid" and either value "0" or "1" indicating soldness.
 	//- one image per tileset.
 	//- first tileset is the background tileset.
